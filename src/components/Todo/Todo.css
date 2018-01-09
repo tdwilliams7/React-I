@@ -1,0 +1,9 @@
+
+.completed {
+  text-decoration: line-through;
+  background-color: gray;
+  color: white;
+}
+button {
+  margin-left: 5%;
+}
